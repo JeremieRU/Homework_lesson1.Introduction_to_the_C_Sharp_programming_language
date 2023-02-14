@@ -14,5 +14,5 @@ while (i <= N)
     {
         Console.Write($"{i}, ");
     }
-    i += 1;
+    i += 2;
 }
